@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/echoeszzz/tip_pr1/utils"
+	"github.com/echoeszzz/tip_pr2/utils"
 )
 
 type pingResp struct {
