@@ -1,6 +1,6 @@
 package main
 
-import "github.com/echoeszzz/tip_pr2/internal/app"
+import "github.com/echhh0/tip_pr2/internal/app"
 
 func main() {
 	app.Run()
